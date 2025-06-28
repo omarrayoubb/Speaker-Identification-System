@@ -1,2 +1,4 @@
- "./Data"  
-"./bin"  
+ /Data/  
+/bin/
+.vs/
+.git/

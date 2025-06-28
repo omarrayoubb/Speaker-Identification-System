@@ -1,0 +1,5 @@
+C:\Users\DELL\Desktop\SPEAKER ID\[2] SPEAKER IDENTIFICATION\STARTUP CODE\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\obj\x86\Release\Recorder.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\SPEAKER ID\[2] SPEAKER IDENTIFICATION\STARTUP CODE\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\obj\x86\Release\Recorder.MainForm.resources
+C:\Users\DELL\Desktop\SPEAKER ID\[2] SPEAKER IDENTIFICATION\STARTUP CODE\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\obj\x86\Release\Recorder.Properties.Resources.resources
+C:\Users\DELL\Desktop\SPEAKER ID\[2] SPEAKER IDENTIFICATION\STARTUP CODE\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\obj\x86\Release\Recorder.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\SPEAKER ID\[2] SPEAKER IDENTIFICATION\STARTUP CODE\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\obj\x86\Release\Recorder.csproj.CoreCompileInputs.cache
